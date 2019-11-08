@@ -16,3 +16,8 @@
 
 # Part Six: Disallow Re-Usign the Score Line
    Done, but that took a while to figure out
+
+# Part Seven: Add Descriptions
+   Done.
+   The Upper scores don't automatically generate a new roll while the Lower
+   scores do.
