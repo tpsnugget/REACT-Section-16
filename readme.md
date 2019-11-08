@@ -21,3 +21,6 @@
    Done.
    The Upper scores don't automatically generate a new roll while the Lower
    scores do.
+
+# Part 8: Add Icons
+   Done. See written notes about using npm, react and fontawesome.
