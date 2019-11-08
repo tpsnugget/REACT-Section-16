@@ -13,3 +13,6 @@
 
 # Part Five: Prevent Rolling More than 3 times
    Added a conditional statement to roll() in Games.js
+
+# Part Six: Disallow Re-Usign the Score Line
+   Done, but that took a while to figure out
